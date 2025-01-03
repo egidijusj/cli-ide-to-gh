@@ -6,3 +6,7 @@ $w.onReady(function () {
 });
 
 const echo = () => console.log('Hello World!')
+$w("#text61").text = 'yay'
+
+
+// hello from codespaces
